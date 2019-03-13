@@ -1,5 +1,11 @@
+# README
+
 It is the script to build a virtual cluster by vagrant
+
 The configuration file is `Vagrantfile`
+
+
+## How to use
 
 ```
 sh setpasswd.sh
